@@ -1,4 +1,4 @@
-    Acko-clone static page created using React.js
+    Acko-clone static page created by using React.js
 
 
 To run this project first you have to  clone the repository and install node modules by using:
